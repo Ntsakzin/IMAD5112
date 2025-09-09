@@ -4,7 +4,7 @@ The purpose of the Meal suggestion App is to provide meal suggestions based on t
 
  
 
-Kotlin is used to design the App 
+Kotlin was used to design the App 
 
 For the App to properly function and do its purpose it will have the following features: 
 
